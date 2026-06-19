@@ -1,6 +1,6 @@
 # Bezpieczeństwo Aplikacji Webowych - Projekt Zaliczeniowy
 
-**Autor:** Michał Downarowicz
+**Autor:** Michał Downarowicz Grupa 3
 ## Opis Projektu
 
 Projekt to w pełni funkcjonalna aplikacja "Notatnik" demonstrująca zasady bezpieczeństwa aplikacji webowych, w szczególności bezpieczne logowanie i dostęp do zasobów przy użyciu protokołu **OAuth 2.0 z rozszerzeniem PKCE (Proof Key for Code Exchange)**. Dodatkowo implementuje autoryzację opartą na rolach (RBAC).
